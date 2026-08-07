@@ -1,0 +1,4 @@
+123t to overwrite 
+ the complete data.
+New text being appended
+ to the file
